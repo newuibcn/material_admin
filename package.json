@@ -1,16 +1,15 @@
 {
-    "jspm": {
-        "files": [
-            "functions.js",
-            "css",
-	     "fonts",
-        ],
-        "map": {
-            "material": "./functions"
-        },
-        "buildConfig": {
-            "uglify": true
-        }
+  "jspm": {
+    "files": [
+      "functions.js",
+      "css",
+      "fonts"
+    ],
+    "map": {
+      "material": "./functions"
+    },
+    "buildConfig": {
+      "uglify": true
     }
+  }
 }
-
