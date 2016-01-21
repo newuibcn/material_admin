@@ -5,6 +5,7 @@
       "css",
       "fonts"
     ],
+    "main": "functions",
     "map": {
       "material": "./functions"
     },
